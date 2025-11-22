@@ -1,0 +1,2 @@
+# Luxury-Housing-Sales-Analysis-Bengaluru-power-BI-dashboard
+ Luxury Housing Sales Analysis – Bengaluru  Data Analytics Project  Project Overview        This project analyzes the Luxury Housing market in Bengaluru to understand pricing trends, builder performance, customer preferences, and booking behavior. The project includes data cleaning, EDA, SQL warehousing, dashboards, and business insights.
